@@ -1,5 +1,5 @@
 FROM jenkinsci/jenkins:2.0-beta-1
-MAINTAINER shashikant.jagtap@aol.co.uk
+MAINTAINER devopsleap@gmail.com
 # Prep Jenkins Directorieos
 
 USER root
